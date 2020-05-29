@@ -10,7 +10,7 @@ English | [简体中文](./README-zh.md)
 4$ git add .
 5$ git status
 6$ git commit -m "s"
-7git remote add origin https://github.com/*********/test.git
+7git remote add origin https://github.com/zhangjunn/test.git
 8$ git push origin master
 ```
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
