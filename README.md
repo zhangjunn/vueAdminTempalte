@@ -1,7 +1,18 @@
 # vue-admin-template
 
 English | [简体中文](./README-zh.md)
-
+```bash
+# LearnGit
+新建完厂库按照以下操作可以上传代码
+1$ git config --global user.name "zhangjunn"
+2$ git config --global user.email "1814668662@qq.com"
+3$ git init
+4$ git add .
+5$ git status
+6$ git commit -m "s"
+7git remote add origin https://github.com/zhangjunn/test.git
+8$ git push origin master
+```
 > A minimal vue admin template with Element UI & axios & iconfont & permission control & lint
 
 **Live demo:** http://panjiachen.github.io/vue-admin-template
